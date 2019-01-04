@@ -70,9 +70,9 @@ class AlamofireViewController: UIViewController, UITabBarDelegate, UITableViewDa
                     url.append(urlArray)
                 }
                 
-                print(name)
-                print(countryInfo)
-                print(url)
+                //print(name)
+                //print(countryInfo)
+                //print(url)
                 
                 
             }else{
